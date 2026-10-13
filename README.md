@@ -20,3 +20,25 @@ py task_2.py
 py task_3.py
 py task_4.py
 py task_5.py
+### Результаты выполнения:
+
+```text
+PS C:\Users\Clementina\Desktop\lab3_oop> py task_1.py
+...
+Шарик говорит Гав!
+Собака: Шарик, Порода: Лабрадор
+PS C:\Users\Clementina\Desktop\lab3_oop> py task_2.py
+Vector(2, 3) + Vector(5, 7) = Vector(7, 10)
+PS C:\Users\Clementina\Desktop\lab3_oop> py task_3.py
+Книга: 'Мастер и Маргарита', Автор: Михаил Булгаков, Год: 1967
+Книга: '1984', Автор: Джордж Оруэлл
+PS C:\Users\Clementina\Desktop\lab3_oop> py task_4.py
+Список: [4, 8, 15, 16, 23, 42]
+Сумма: 108
+Среднее: 18.00
+Максимум: 42
+Минимум: 4
+PS C:\Users\Clementina\Desktop\lab3_oop> py task_5.py
+25°C = 77.00°F
+После установки 100°F: 37.77777777777778°C = 100.00°F
+Ошибка: Температура не может быть ниже абсолютного нуля
